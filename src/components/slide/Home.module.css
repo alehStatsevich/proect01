@@ -1,0 +1,35 @@
+.home {
+    padding-left: 375px;
+}
+
+.homeH {
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 68px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    margin: auto;
+}
+
+.homeP {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 1118px) {
+    .home {
+        padding-left: 0;
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width: 654px) {
+    .home {
+        padding-left: 0;
+    }
+}

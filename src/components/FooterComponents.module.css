@@ -1,0 +1,36 @@
+.blockIcon {
+    width: 234px;
+    height: 120px;
+    background-color: #FFFFFF;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 30px;
+    left: 23px;
+}
+
+.a {
+    height: 40px;
+    width: 129px;
+    position: relative;
+    left: 70px;
+    font-family: Museo Sans Cyrl;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #323232;
+    text-decoration: none;
+    cursor: pointer;
+}
+.blockIcon:hover {
+    text-transform: none;
+    background-color: #F3F3F3;
+    color: #323232;
+    text-decoration: underline;
+}

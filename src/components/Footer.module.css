@@ -1,0 +1,21 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 100%;
+    min-height: 120px;
+    border-bottom: 1px solid black;
+}
+.p{
+    color: #323232;
+    font-weight: 300;
+    font-size: 13px;
+}
+@media screen and (max-width: 1182px) {
+    .footer {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+
+    }
+}

@@ -1,0 +1,25 @@
+.block{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    width: 228px;
+    height: 38px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    background: #E69A37;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+}
+button {
+    height: 16px;
+    background: #E69A37;
+    color: #FFFFFF;
+    border: none;
+    padding: 12px;
+}

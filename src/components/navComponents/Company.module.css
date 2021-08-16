@@ -1,0 +1,35 @@
+.company{
+    /*width: 100%;*/
+    /*height: 670px;*/
+    /*background-image: url("../common/img/pexels-marcin-jozwiak-3634730 1.png");*/
+}
+h1{
+    /*position: absolute;*/
+    /*height: 204px;*/
+    /*width: 650px;*/
+    /*left: 375px;*/
+    /*top: 350px;*/
+    /*font-family: Museo Sans Cyrl;*/
+    /*font-size: 60px;*/
+    /*font-style: normal;*/
+    /*font-weight: 700;*/
+    /*line-height: 68px;*/
+    /*letter-spacing: 0em;*/
+    /*text-align: left;*/
+    /*color: #FFFFFF;*/
+    /*margin: auto;*/
+}
+p{
+    /*position: absolute;*/
+    /*width: 650px;*/
+    /*height: 112px;*/
+    /*left: 375px;*/
+    /*top: 574px;*/
+    /*font-family: Museo Sans Cyrl;*/
+    /*font-style: normal;*/
+    /*font-weight: normal;*/
+    /*font-size: 22px;*/
+    /*line-height: 28px;*/
+    /*text-align: left;*/
+    /*color: #FFFFFF;*/
+}
