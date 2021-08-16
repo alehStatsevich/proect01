@@ -27,7 +27,7 @@ function Footer () {
     return (
         <>
         <div className={style.footer}>
-            <FooterComponent style={blockA} href={'#'} view={'Услуги проектирования'}/>
+            <FooterComponent style={blockA} href={'https://github.com/alehStatsevich/proect01'} view={'Услуги проектирования'}/>
             <FooterComponent style={blockB} href={'https://www.linkedin.com/in/oleg-stacevich-a71061209/'} view={'Строительно-монтажные работы'}/>
             <FooterComponent style={blockC} href={'#'} view={'Экспертная деятельность'}/>
             <FooterComponent style={blockD} href={'#'} view={'Техническое обслуживание'}/>
