@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/proect01/static/css/main.0dae4375.chunk.css",
+    "main.js": "/proect01/static/js/main.fb3db104.chunk.js",
+    "main.js.map": "/proect01/static/js/main.fb3db104.chunk.js.map",
+    "runtime-main.js": "/proect01/static/js/runtime-main.5da2b9c2.js",
+    "runtime-main.js.map": "/proect01/static/js/runtime-main.5da2b9c2.js.map",
+    "static/css/2.4ce9e501.chunk.css": "/proect01/static/css/2.4ce9e501.chunk.css",
+    "static/js/2.65e3582a.chunk.js": "/proect01/static/js/2.65e3582a.chunk.js",
+    "static/js/2.65e3582a.chunk.js.map": "/proect01/static/js/2.65e3582a.chunk.js.map",
+    "static/js/3.51a87f45.chunk.js": "/proect01/static/js/3.51a87f45.chunk.js",
+    "static/js/3.51a87f45.chunk.js.map": "/proect01/static/js/3.51a87f45.chunk.js.map",
+    "index.html": "/proect01/index.html",
+    "static/css/2.4ce9e501.chunk.css.map": "/proect01/static/css/2.4ce9e501.chunk.css.map",
+    "static/css/main.0dae4375.chunk.css.map": "/proect01/static/css/main.0dae4375.chunk.css.map",
+    "static/js/2.65e3582a.chunk.js.LICENSE.txt": "/proect01/static/js/2.65e3582a.chunk.js.LICENSE.txt",
+    "static/media/ic_1.4981cf52.svg": "/proect01/static/media/ic_1.4981cf52.svg",
+    "static/media/ic_2.3c1f3ca1.svg": "/proect01/static/media/ic_2.3c1f3ca1.svg",
+    "static/media/ic_3.2de8b863.svg": "/proect01/static/media/ic_3.2de8b863.svg",
+    "static/media/ic_4.7e225fee.svg": "/proect01/static/media/ic_4.7e225fee.svg",
+    "static/media/ic_5.8a986c76.svg": "/proect01/static/media/ic_5.8a986c76.svg",
+    "static/media/logo.c95c988b.svg": "/proect01/static/media/logo.c95c988b.svg",
+    "static/media/Main.module.css": "/proect01/static/media/pexels-marcin-jozwiak-3634730 1.f3ffc59a.png",
+    "static/media/search icon.2dd7e2ec.svg": "/proect01/static/media/search icon.2dd7e2ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5da2b9c2.js",
+    "static/css/2.4ce9e501.chunk.css",
+    "static/js/2.65e3582a.chunk.js",
+    "static/css/main.0dae4375.chunk.css",
+    "static/js/main.fb3db104.chunk.js"
+  ]
+}
